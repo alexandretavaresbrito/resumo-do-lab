@@ -27,5 +27,10 @@ Também uma pequena apresentação da plataforma para familiarização foi feita
 
 **Gerenciabilidade:** facilitar o uso do ambiente para os usuários, por quaisquer meios desejados ou permitidos;
 
+### Estudamos os conceitos de nuvem
 
+Nessa parte exploramos os nonceitos ed **IaaS**, **PaaS** e **SaaS**, e a responsabilidade a ser compartilhada com a Microsoft em cada um dos modelos.
 
+No **Iaas** a estrutura dos servidores, máquinas virtuais, armazenamento, sistemas e eventuais  manutenções, upgrades e backups são de total responsabilidade do profissional, cabendo à nuvem somente a disponibilidade da estrutura.
+
+No **Paas** o gerenciamento da infraestrutura fica a cargo da nuvem,, concentrando-se o profissioanl a 
