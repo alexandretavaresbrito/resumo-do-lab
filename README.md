@@ -33,4 +33,8 @@ Nessa parte exploramos os nonceitos ed **IaaS**, **PaaS** e **SaaS**, e a respon
 
 No **Iaas** a estrutura dos servidores, máquinas virtuais, armazenamento, sistemas e eventuais  manutenções, upgrades e backups são de total responsabilidade do profissional, cabendo à nuvem somente a disponibilidade da estrutura.
 
-No **Paas** o gerenciamento da infraestrutura fica a cargo da nuvem,, concentrando-se o profissioanl a 
+No **Paas** o gerenciamento da infraestrutura fica a cargo da nuvem, concentrando-se o profissional apenas com o ambiente de trabalho para produção ou desenvolvimento;
+
+No **SaaS** Somente a aquisição de softwares necessários a tarefas aserem executadasna nuvem, como calendários, video-chamadas etc.
+
+Todos esses conceitos remetem ao **Modelo de Responsabilidade Compartilhada**, onde os diferentes tipos demandam diferentes abordagens dos profissionais envolvidos com o projeto, tomendo para si responsabilidades inerentes aos diferentes modelos e assumindo às funções relativas a  qual determinado modelo precisa.
